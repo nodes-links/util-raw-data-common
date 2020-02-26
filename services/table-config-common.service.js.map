@@ -1,0 +1,1 @@
+{"version":3,"file":"table-config-common.service.js","sourceRoot":"","sources":["../../services/table-config-common.service.ts"],"names":[],"mappings":";;AAEA;;;;;;GAMG;AACH,MAAa,wBAAwB;IAmBnC;QACE,IAAI,CAAC,MAAM,GAAG,IAAI,OAAO,CAAyB,OAAO,CAAC,EAAE;YAC1D,IAAI,IAAI,CAAC,OAAO;gBAAE,OAAO,CAAC,IAAI,CAAC,OAAO,CAAC,CAAC;QAC1C,CAAC,CAAC,CAAC;IACL,CAAC;CACF;AAxBD,4DAwBC"}
