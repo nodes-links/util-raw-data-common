@@ -29,11 +29,14 @@
   "keywords": [
     "Nodes & Links"
   ],
-  "devDependencies": {
-    "typescript": "~3.4.5",
+  "dependencies": {
+    "@datorama/akita": "^4.13.0",
+    "@types/lodash": "^4.14.138",
     "jszip": "^3.2.1",
-    "fs": "0.0.1-security",
+    "lodash": "^4.17.15",
+    "papaparse": "^4.6.3",
     "rxjs": "^6.5.0",
+    "tslib": "^1.10.0",
     "moment": "^2.24.0"
   }
 }
